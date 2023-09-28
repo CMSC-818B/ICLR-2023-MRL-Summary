@@ -1,4 +1,4 @@
-# ICLR-2023-MRL-Summary
+# ICLR 2023 Multimodal Representation Learning Workshop Summary
 Summary of the ICLR 2023 Multimodal Representation Learning Workshop
 
 
